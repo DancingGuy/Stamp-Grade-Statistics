@@ -1,0 +1,2 @@
+This folder contains sample output flat .csv files and MySQL Workbench data recordset output files. 
+The .csv files are auto-created by the Stamps-Grades.py script. The database output must be manually dumped from within MySQL Workbench.
