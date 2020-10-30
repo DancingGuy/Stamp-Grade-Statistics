@@ -1,0 +1,1022 @@
+Access,08/31/2020, 15:17:48,Grade,Success,2020-08-31 19:17:51,1.13.0
+Gem,43400
+Superb,192026
+XF/S (Extremely Fine/Superb),64654
+XF (Extremely Fine),55630
+VF/XF (Very Fine/Extremely Fine),121214
+VF (Very Fine),485531
+F/VF (Fine/Very Fine),273066
+F (Fine),83503
+VG/F (Very Good/Fine),14892
+VG (Very Good),15689
+G/VG (Good/Very Good),11617
+G (Good),48129
+F/G (Fair/Good),4329
+F (Fair),4364
+P (Poor),719
+Not Specified,3300697
+Access,09/01/2020, 15:50:15,Grade,Success,2020-09-01 19:50:18,1.13.0
+Gem,43792
+Superb,193735
+XF/S (Extremely Fine/Superb),63610
+XF (Extremely Fine),55925
+VF/XF (Very Fine/Extremely Fine),123434
+VF (Very Fine),496101
+F/VF (Fine/Very Fine),276563
+F (Fine),84176
+VG/F (Very Good/Fine),15029
+VG (Very Good),15921
+G/VG (Good/Very Good),11657
+G (Good),48776
+F/G (Fair/Good),4588
+F (Fair),4374
+P (Poor),731
+Not Specified,3295603
+Access,09/02/2020, 10:13:15,Grade,Success,2020-09-02 14:13:19,1.13.0
+Gem,44105
+Superb,194704
+XF/S (Extremely Fine/Superb),64214
+XF (Extremely Fine),56107
+VF/XF (Very Fine/Extremely Fine),129302
+VF (Very Fine),500215
+F/VF (Fine/Very Fine),278767
+F (Fine),85732
+VG/F (Very Good/Fine),15384
+VG (Very Good),15983
+G/VG (Good/Very Good),11914
+G (Good),49283
+F/G (Fair/Good),4632
+F (Fair),6018
+P (Poor),741
+Not Specified,3309679
+Access,09/03/2020, 18:03:01,Grade,Success,2020-09-03 22:03:05,1.13.0
+Gem,44225
+Superb,196892
+XF/S (Extremely Fine/Superb),64355
+XF (Extremely Fine),56212
+VF/XF (Very Fine/Extremely Fine),129588
+VF (Very Fine),502035
+F/VF (Fine/Very Fine),279021
+F (Fine),86170
+VG/F (Very Good/Fine),15391
+VG (Very Good),16032
+G/VG (Good/Very Good),11957
+G (Good),49303
+F/G (Fair/Good),4658
+F (Fair),7015
+P (Poor),751
+Not Specified,3333701
+Access,09/04/2020, 11:27:24,Grade,Success,2020-09-04 15:27:28,1.13.0
+Gem,44189
+Superb,199070
+XF/S (Extremely Fine/Superb),64586
+XF (Extremely Fine),56284
+VF/XF (Very Fine/Extremely Fine),129671
+VF (Very Fine),502710
+F/VF (Fine/Very Fine),279151
+F (Fine),86059
+VG/F (Very Good/Fine),15478
+VG (Very Good),16084
+G/VG (Good/Very Good),12029
+G (Good),50000
+F/G (Fair/Good),4705
+F (Fair),7792
+P (Poor),748
+Not Specified,3333776
+Access,09/05/2020, 08:11:35,Grade,Success,2020-09-05 12:11:39,1.13.0
+Gem,44743
+Superb,203314
+XF/S (Extremely Fine/Superb),64973
+XF (Extremely Fine),56362
+VF/XF (Very Fine/Extremely Fine),130433
+VF (Very Fine),502056
+F/VF (Fine/Very Fine),279983
+F (Fine),85911
+VG/F (Very Good/Fine),15656
+VG (Very Good),16058
+G/VG (Good/Very Good),12343
+G (Good),49784
+F/G (Fair/Good),4900
+F (Fair),8294
+P (Poor),763
+Not Specified,3312363
+Access,09/06/2020, 17:46:56,Grade,Success,2020-09-06 21:46:56,1.13.0
+Gem,44929
+Superb,202451
+XF/S (Extremely Fine/Superb),64934
+XF (Extremely Fine),56216
+VF/XF (Very Fine/Extremely Fine),130295
+VF (Very Fine),502860
+F/VF (Fine/Very Fine),280139
+F (Fine),85572
+VG/F (Very Good/Fine),15657
+VG (Very Good),16035
+G/VG (Good/Very Good),12328
+G (Good),49839
+F/G (Fair/Good),4761
+F (Fair),8265
+P (Poor),752
+Not Specified,3271329
+Access,09/07/2020, 10:40:11,Grade,Success,2020-09-07 14:40:11,1.13.0
+Gem,44820
+Superb,203204
+XF/S (Extremely Fine/Superb),64791
+XF (Extremely Fine),56303
+VF/XF (Very Fine/Extremely Fine),130018
+VF (Very Fine),502176
+F/VF (Fine/Very Fine),280038
+F (Fine),85371
+VG/F (Very Good/Fine),15609
+VG (Very Good),16083
+G/VG (Good/Very Good),12332
+G (Good),50130
+F/G (Fair/Good),4883
+F (Fair),8311
+P (Poor),755
+Not Specified,3286594
+Access,09/08/2020, 17:36:28,Grade,Success,2020-09-08 21:36:29,1.13.0
+Gem,44699
+Superb,203318
+XF/S (Extremely Fine/Superb),64970
+XF (Extremely Fine),56622
+VF/XF (Very Fine/Extremely Fine),129004
+VF (Very Fine),503455
+F/VF (Fine/Very Fine),279556
+F (Fine),85815
+VG/F (Very Good/Fine),15654
+VG (Very Good),15945
+G/VG (Good/Very Good),12249
+G (Good),50191
+F/G (Fair/Good),4584
+F (Fair),8333
+P (Poor),750
+Not Specified,3285666
+Access,09/09/2020, 10:13:18,Grade,Success,2020-09-09 14:13:19,1.13.0
+Gem,44676
+Superb,202189
+XF/S (Extremely Fine/Superb),64982
+XF (Extremely Fine),56550
+VF/XF (Very Fine/Extremely Fine),129889
+VF (Very Fine),503297
+F/VF (Fine/Very Fine),279584
+F (Fine),85750
+VG/F (Very Good/Fine),15678
+VG (Very Good),16013
+G/VG (Good/Very Good),12300
+G (Good),49861
+F/G (Fair/Good),4488
+F (Fair),8331
+P (Poor),750
+Not Specified,3283833
+Access,09/10/2020, 08:04:36,Grade,Success,2020-09-10 12:04:40,1.13.0
+Gem,44607
+Superb,203816
+XF/S (Extremely Fine/Superb),64961
+XF (Extremely Fine),56453
+VF/XF (Very Fine/Extremely Fine),129492
+VF (Very Fine),501979
+F/VF (Fine/Very Fine),279854
+F (Fine),85452
+VG/F (Very Good/Fine),15870
+VG (Very Good),15997
+G/VG (Good/Very Good),12375
+G (Good),49504
+F/G (Fair/Good),4390
+F (Fair),8276
+P (Poor),748
+Not Specified,3275310
+Access,09/11/2020, 11:15:47,Grade,Success,2020-09-11 15:15:48,1.13.0
+Gem,44511
+Superb,206740
+XF/S (Extremely Fine/Superb),65029
+XF (Extremely Fine),56535
+VF/XF (Very Fine/Extremely Fine),129475
+VF (Very Fine),502196
+F/VF (Fine/Very Fine),280856
+F (Fine),86166
+VG/F (Very Good/Fine),15858
+VG (Very Good),16195
+G/VG (Good/Very Good),12397
+G (Good),49525
+F/G (Fair/Good),4378
+F (Fair),8241
+P (Poor),755
+Not Specified,3271041
+Access,09/12/2020, 12:45:14,Grade,Success,2020-09-12 16:45:15,1.13.0
+Gem,44330
+Superb,206001
+XF/S (Extremely Fine/Superb),65230
+XF (Extremely Fine),56507
+VF/XF (Very Fine/Extremely Fine),128196
+VF (Very Fine),503472
+F/VF (Fine/Very Fine),280946
+F (Fine),85671
+VG/F (Very Good/Fine),15686
+VG (Very Good),16433
+G/VG (Good/Very Good),12207
+G (Good),49852
+F/G (Fair/Good),4054
+F (Fair),8243
+P (Poor),752
+Not Specified,3263746
+Access,09/13/2020, 22:02:56,Grade,Success,2020-09-14 02:02:58,1.13.0
+Gem,43706
+Superb,205465
+XF/S (Extremely Fine/Superb),64993
+XF (Extremely Fine),55863
+VF/XF (Very Fine/Extremely Fine),128437
+VF (Very Fine),504561
+F/VF (Fine/Very Fine),281569
+F (Fine),85446
+VG/F (Very Good/Fine),15635
+VG (Very Good),16368
+G/VG (Good/Very Good),12141
+G (Good),50219
+F/G (Fair/Good),3981
+F (Fair),8192
+P (Poor),749
+Not Specified,3250563
+Access,09/14/2020, 16:15:48,Grade,Success,2020-09-14 20:15:50,1.13.0
+Gem,43701
+Superb,204841
+XF/S (Extremely Fine/Superb),64962
+XF (Extremely Fine),55567
+VF/XF (Very Fine/Extremely Fine),128028
+VF (Very Fine),506657
+F/VF (Fine/Very Fine),280948
+F (Fine),85027
+VG/F (Very Good/Fine),15578
+VG (Very Good),16279
+G/VG (Good/Very Good),12174
+G (Good),49795
+F/G (Fair/Good),3988
+F (Fair),8211
+P (Poor),762
+Not Specified,3251947
+Access,09/15/2020, 07:57:31,Grade,Success,2020-09-15 11:57:33,1.13.0
+Gem,43779
+Superb,204620
+XF/S (Extremely Fine/Superb),64844
+XF (Extremely Fine),55495
+VF/XF (Very Fine/Extremely Fine),128215
+VF (Very Fine),506859
+F/VF (Fine/Very Fine),280946
+F (Fine),84570
+VG/F (Very Good/Fine),15689
+VG (Very Good),16269
+G/VG (Good/Very Good),12177
+G (Good),49981
+F/G (Fair/Good),3991
+F (Fair),8233
+P (Poor),766
+Not Specified,3245925
+Access,09/16/2020, 11:22:42,Grade,Success,2020-09-16 15:22:44,1.13.0
+Gem,43835
+Superb,205371
+XF/S (Extremely Fine/Superb),64890
+XF (Extremely Fine),55483
+VF/XF (Very Fine/Extremely Fine),128247
+VF (Very Fine),508854
+F/VF (Fine/Very Fine),281075
+F (Fine),84775
+VG/F (Very Good/Fine),15685
+VG (Very Good),16302
+G/VG (Good/Very Good),12082
+G (Good),49969
+F/G (Fair/Good),4166
+F (Fair),8284
+P (Poor),762
+Not Specified,3250548
+Access,09/17/2020, 18:26:35,Grade,Success,2020-09-17 22:26:38,1.13.0
+Gem,44048
+Superb,206626
+XF/S (Extremely Fine/Superb),64886
+XF (Extremely Fine),55529
+VF/XF (Very Fine/Extremely Fine),128353
+VF (Very Fine),509894
+F/VF (Fine/Very Fine),282275
+F (Fine),88063
+VG/F (Very Good/Fine),15602
+VG (Very Good),16239
+G/VG (Good/Very Good),12028
+G (Good),49986
+F/G (Fair/Good),4322
+F (Fair),8271
+P (Poor),773
+Not Specified,3234590
+Access,09/18/2020, 14:23:47,Grade,Success,2020-09-18 18:23:56,1.13.0
+Gem,44092
+Superb,207179
+XF/S (Extremely Fine/Superb),64928
+XF (Extremely Fine),55533
+VF/XF (Very Fine/Extremely Fine),128652
+VF (Very Fine),511233
+F/VF (Fine/Very Fine),282383
+F (Fine),87709
+VG/F (Very Good/Fine),15544
+VG (Very Good),16234
+G/VG (Good/Very Good),12141
+G (Good),50156
+F/G (Fair/Good),4394
+F (Fair),8272
+P (Poor),766
+Not Specified,3258703
+Access,09/19/2020, 12:27:46,Grade,Success,2020-09-19 16:27:55,1.13.0
+Gem,44226
+Superb,206774
+XF/S (Extremely Fine/Superb),64935
+XF (Extremely Fine),55502
+VF/XF (Very Fine/Extremely Fine),128995
+VF (Very Fine),510399
+F/VF (Fine/Very Fine),282344
+F (Fine),87332
+VG/F (Very Good/Fine),15643
+VG (Very Good),16159
+G/VG (Good/Very Good),12155
+G (Good),48912
+F/G (Fair/Good),4326
+F (Fair),8228
+P (Poor),760
+Not Specified,3237281
+Access,09/20/2020, 12:27:45,Grade,Success,2020-09-20 16:27:55,1.13.0
+Gem,44133
+Superb,206241
+XF/S (Extremely Fine/Superb),64776
+XF (Extremely Fine),55269
+VF/XF (Very Fine/Extremely Fine),128963
+VF (Very Fine),510199
+F/VF (Fine/Very Fine),282350
+F (Fine),88241
+VG/F (Very Good/Fine),15488
+VG (Very Good),16119
+G/VG (Good/Very Good),12089
+G (Good),49133
+F/G (Fair/Good),4316
+F (Fair),8194
+P (Poor),756
+Not Specified,3233038
+
+
+Access,09/21/2020, 12:27:46,Grade,Success,2020-09-21 16:27:56,1.13.0
+Gem,44950
+Superb,207704
+XF/S (Extremely Fine/Superb),65076
+XF (Extremely Fine),55269
+VF/XF (Very Fine/Extremely Fine),129274
+VF (Very Fine),510599
+F/VF (Fine/Very Fine),281341
+F (Fine),87718
+VG/F (Very Good/Fine),15527
+VG (Very Good),16035
+G/VG (Good/Very Good),11893
+G (Good),49398
+F/G (Fair/Good),4388
+F (Fair),8199
+P (Poor),742
+Not Specified,3230356
+Access,09/22/2020, 12:27:50,Grade,Success,2020-09-22 16:28:00,1.13.0
+Gem,46783
+Superb,207156
+XF/S (Extremely Fine/Superb),64879
+XF (Extremely Fine),55432
+VF/XF (Very Fine/Extremely Fine),128607
+VF (Very Fine),509592
+F/VF (Fine/Very Fine),280849
+F (Fine),88345
+VG/F (Very Good/Fine),15189
+VG (Very Good),16126
+G/VG (Good/Very Good),11851
+G (Good),49818
+F/G (Fair/Good),4447
+F (Fair),8191
+P (Poor),737
+Not Specified,3238245
+Access,09/23/2020, 12:27:50,Grade,Success,2020-09-23 16:28:01,1.13.0
+Gem,48366
+Superb,208100
+XF/S (Extremely Fine/Superb),64843
+XF (Extremely Fine),55570
+VF/XF (Very Fine/Extremely Fine),129224
+VF (Very Fine),510279
+F/VF (Fine/Very Fine),280241
+F (Fine),89863
+VG/F (Very Good/Fine),15327
+VG (Very Good),16320
+G/VG (Good/Very Good),11973
+G (Good),50003
+F/G (Fair/Good),4556
+F (Fair),8244
+P (Poor),729
+Not Specified,3256970
+Access,09/24/2020, 12:27:46,Grade,Success,2020-09-24 16:27:57,1.13.0
+Gem,48298
+Superb,208569
+XF/S (Extremely Fine/Superb),65034
+XF (Extremely Fine),56825
+VF/XF (Very Fine/Extremely Fine),137292
+VF (Very Fine),510270
+F/VF (Fine/Very Fine),280795
+F (Fine),90941
+VG/F (Very Good/Fine),15326
+VG (Very Good),16364
+G/VG (Good/Very Good),12024
+G (Good),50155
+F/G (Fair/Good),4718
+F (Fair),8284
+P (Poor),726
+Not Specified,3274040
+Access,09/25/2020, 12:27:46,Grade,Success,2020-09-25 16:27:57,1.13.0
+Gem,48282
+Superb,209191
+XF/S (Extremely Fine/Superb),65134
+XF (Extremely Fine),57050
+VF/XF (Very Fine/Extremely Fine),137501
+VF (Very Fine),508205
+F/VF (Fine/Very Fine),281548
+F (Fine),95182
+VG/F (Very Good/Fine),15337
+VG (Very Good),16414
+G/VG (Good/Very Good),12056
+G (Good),50050
+F/G (Fair/Good),4803
+F (Fair),8294
+P (Poor),736
+Not Specified,3261050
+Access,09/26/2020, 12:27:46,Grade,Success,2020-09-26 16:27:57,1.13.0
+Gem,48369
+Superb,209031
+XF/S (Extremely Fine/Superb),65145
+XF (Extremely Fine),57155
+VF/XF (Very Fine/Extremely Fine),136482
+VF (Very Fine),508961
+F/VF (Fine/Very Fine),282418
+F (Fine),95488
+VG/F (Very Good/Fine),15112
+VG (Very Good),16558
+G/VG (Good/Very Good),12175
+G (Good),50540
+F/G (Fair/Good),4761
+F (Fair),8251
+P (Poor),738
+Not Specified,3261337
+Access,09/27/2020, 12:27:46,Grade,Success,2020-09-27 16:27:57,1.13.0
+Gem,48984
+Superb,208541
+XF/S (Extremely Fine/Superb),65113
+XF (Extremely Fine),57171
+VF/XF (Very Fine/Extremely Fine),136462
+VF (Very Fine),508774
+F/VF (Fine/Very Fine),281726
+F (Fine),94557
+VG/F (Very Good/Fine),15001
+VG (Very Good),16422
+G/VG (Good/Very Good),12405
+G (Good),50384
+F/G (Fair/Good),4692
+F (Fair),8269
+P (Poor),741
+Not Specified,3258761
+Access,09/28/2020, 12:27:45,Grade,Success,2020-09-28 16:27:57,1.13.0
+Gem,48759
+Superb,208716
+XF/S (Extremely Fine/Superb),65416
+XF (Extremely Fine),57755
+VF/XF (Very Fine/Extremely Fine),135822
+VF (Very Fine),510238
+F/VF (Fine/Very Fine),282814
+F (Fine),91784
+VG/F (Very Good/Fine),14937
+VG (Very Good),16367
+G/VG (Good/Very Good),12281
+G (Good),50369
+F/G (Fair/Good),4520
+F (Fair),8299
+P (Poor),735
+Not Specified,3262130
+Access,09/29/2020, 12:27:45,Grade,Success,2020-09-29 16:27:58,1.13.0
+Gem,48784
+Superb,208950
+XF/S (Extremely Fine/Superb),65419
+XF (Extremely Fine),57650
+VF/XF (Very Fine/Extremely Fine),135749
+VF (Very Fine),509098
+F/VF (Fine/Very Fine),282044
+F (Fine),91625
+VG/F (Very Good/Fine),15065
+VG (Very Good),16410
+G/VG (Good/Very Good),12207
+G (Good),50273
+F/G (Fair/Good),4460
+F (Fair),8272
+P (Poor),743
+Not Specified,3252654
+Access,09/30/2020, 12:27:46,Grade,Success,2020-09-30 16:27:58,1.13.0
+Gem,48777
+Superb,210077
+XF/S (Extremely Fine/Superb),65374
+XF (Extremely Fine),57741
+VF/XF (Very Fine/Extremely Fine),130526
+VF (Very Fine),506085
+F/VF (Fine/Very Fine),280297
+F (Fine),93328
+VG/F (Very Good/Fine),15072
+VG (Very Good),16557
+G/VG (Good/Very Good),12288
+G (Good),49934
+F/G (Fair/Good),4504
+F (Fair),8332
+P (Poor),758
+Not Specified,3230022
+Access,10/01/2020, 12:27:49,Grade,Success,2020-10-01 16:28:01,1.13.0
+Gem,49045
+Superb,211623
+XF/S (Extremely Fine/Superb),67181
+XF (Extremely Fine),57802
+VF/XF (Very Fine/Extremely Fine),126951
+VF (Very Fine),511323
+F/VF (Fine/Very Fine),283920
+F (Fine),94897
+VG/F (Very Good/Fine),15153
+VG (Very Good),16556
+G/VG (Good/Very Good),12393
+G (Good),50550
+F/G (Fair/Good),4568
+F (Fair),8339
+P (Poor),756
+Not Specified,3225044
+Access,10/02/2020, 12:27:45,Grade,Success,2020-10-02 16:27:58,1.13.0
+Gem,49181
+Superb,211722
+XF/S (Extremely Fine/Superb),70613
+XF (Extremely Fine),58100
+VF/XF (Very Fine/Extremely Fine),132500
+VF (Very Fine),510390
+F/VF (Fine/Very Fine),285641
+F (Fine),99943
+VG/F (Very Good/Fine),15264
+VG (Very Good),16549
+G/VG (Good/Very Good),12448
+G (Good),50709
+F/G (Fair/Good),4600
+F (Fair),8420
+P (Poor),774
+Not Specified,3262936
+Access,10/03/2020, 12:27:45,Grade,Success,2020-10-03 16:27:58,1.13.0
+Gem,49572
+Superb,215861
+XF/S (Extremely Fine/Superb),72310
+XF (Extremely Fine),58142
+VF/XF (Very Fine/Extremely Fine),134231
+VF (Very Fine),511512
+F/VF (Fine/Very Fine),285868
+F (Fine),99814
+VG/F (Very Good/Fine),15264
+VG (Very Good),16723
+G/VG (Good/Very Good),12426
+G (Good),50402
+F/G (Fair/Good),4565
+F (Fair),8417
+P (Poor),765
+Not Specified,3280483
+Access,10/04/2020, 12:27:45,Grade,Success,2020-10-04 16:27:59,1.13.0
+Gem,49410
+Superb,215026
+XF/S (Extremely Fine/Superb),72415
+XF (Extremely Fine),58262
+VF/XF (Very Fine/Extremely Fine),134114
+VF (Very Fine),513847
+F/VF (Fine/Very Fine),286169
+F (Fine),99646
+VG/F (Very Good/Fine),15336
+VG (Very Good),16851
+G/VG (Good/Very Good),12377
+G (Good),50945
+F/G (Fair/Good),4538
+F (Fair),8451
+P (Poor),774
+Not Specified,3285132
+Access,10/05/2020, 12:27:52,Grade,Success,2020-10-05 16:28:06,1.13.0
+Gem,49444
+Superb,216152
+XF/S (Extremely Fine/Superb),72517
+XF (Extremely Fine),58327
+VF/XF (Very Fine/Extremely Fine),134630
+VF (Very Fine),515865
+F/VF (Fine/Very Fine),287287
+F (Fine),101136
+VG/F (Very Good/Fine),15625
+VG (Very Good),16964
+G/VG (Good/Very Good),12469
+G (Good),51565
+F/G (Fair/Good),4486
+F (Fair),8473
+P (Poor),788
+Not Specified,3286354
+Access,10/06/2020, 12:27:50,Grade,Success,2020-10-06 16:28:04,1.13.0
+Gem,49450
+Superb,218919
+XF/S (Extremely Fine/Superb),73269
+XF (Extremely Fine),58563
+VF/XF (Very Fine/Extremely Fine),134811
+VF (Very Fine),518846
+F/VF (Fine/Very Fine),287368
+F (Fine),101157
+VG/F (Very Good/Fine),15585
+VG (Very Good),16923
+G/VG (Good/Very Good),12451
+G (Good),51380
+F/G (Fair/Good),4486
+F (Fair),8478
+P (Poor),783
+Not Specified,3289172
+Access,10/07/2020, 12:27:45,Grade,Success,2020-10-07 16:28:00,1.13.0
+Gem,49536
+Superb,218838
+XF/S (Extremely Fine/Superb),73452
+XF (Extremely Fine),58598
+VF/XF (Very Fine/Extremely Fine),135258
+VF (Very Fine),519815
+F/VF (Fine/Very Fine),287888
+F (Fine),99204
+VG/F (Very Good/Fine),15758
+VG (Very Good),16983
+G/VG (Good/Very Good),12503
+G (Good),51365
+F/G (Fair/Good),4578
+F (Fair),8479
+P (Poor),772
+Not Specified,3283499
+Access,10/08/2020, 12:27:51,Grade,Success,2020-10-08 16:28:06,1.13.0
+Gem,49249
+Superb,218922
+XF/S (Extremely Fine/Superb),73200
+XF (Extremely Fine),58737
+VF/XF (Very Fine/Extremely Fine),134678
+VF (Very Fine),519731
+F/VF (Fine/Very Fine),288340
+F (Fine),100766
+VG/F (Very Good/Fine),15810
+VG (Very Good),17181
+G/VG (Good/Very Good),12433
+G (Good),50884
+F/G (Fair/Good),5003
+F (Fair),8470
+P (Poor),781
+Not Specified,3286422
+Access,10/09/2020, 12:27:48,Grade,Success,2020-10-09 16:28:03,1.13.0
+Gem,49128
+Superb,219822
+XF/S (Extremely Fine/Superb),73497
+XF (Extremely Fine),58854
+VF/XF (Very Fine/Extremely Fine),134380
+VF (Very Fine),520945
+F/VF (Fine/Very Fine),289598
+F (Fine),101049
+VG/F (Very Good/Fine),15765
+VG (Very Good),17276
+G/VG (Good/Very Good),12443
+G (Good),50860
+F/G (Fair/Good),5143
+F (Fair),8481
+P (Poor),780
+Not Specified,3276025
+Access,10/10/2020, 12:27:45,Grade,Success,2020-10-10 16:28:17,1.13.0
+Gem,48898
+Superb,218834
+XF/S (Extremely Fine/Superb),73649
+XF (Extremely Fine),58827
+VF/XF (Very Fine/Extremely Fine),134400
+VF (Very Fine),520346
+F/VF (Fine/Very Fine),289566
+F (Fine),101193
+VG/F (Very Good/Fine),15914
+VG (Very Good),17341
+G/VG (Good/Very Good),12394
+G (Good),50811
+F/G (Fair/Good),5190
+F (Fair),8440
+P (Poor),773
+Not Specified,3287748
+Access,10/11/2020, 12:27:45,Grade,Success,2020-10-11 16:28:17,1.13.0
+Gem,49030
+Superb,217303
+XF/S (Extremely Fine/Superb),73190
+XF (Extremely Fine),58605
+VF/XF (Very Fine/Extremely Fine),133758
+VF (Very Fine),522055
+F/VF (Fine/Very Fine),289721
+F (Fine),101405
+VG/F (Very Good/Fine),15878
+VG (Very Good),17408
+G/VG (Good/Very Good),12493
+G (Good),50440
+F/G (Fair/Good),5214
+F (Fair),8440
+P (Poor),775
+Not Specified,3279196
+Access,10/12/2020, 12:27:45,Grade,Success,2020-10-12 16:28:17,1.13.0
+Gem,49027
+Superb,215332
+XF/S (Extremely Fine/Superb),73290
+XF (Extremely Fine),58632
+VF/XF (Very Fine/Extremely Fine),133683
+VF (Very Fine),522475
+F/VF (Fine/Very Fine),289189
+F (Fine),98745
+VG/F (Very Good/Fine),15908
+VG (Very Good),17273
+G/VG (Good/Very Good),12505
+G (Good),50671
+F/G (Fair/Good),5262
+F (Fair),8444
+P (Poor),773
+Not Specified,3276028
+Access,10/13/2020, 12:27:45,Grade,Success,2020-10-13 16:28:18,1.13.0
+Gem,48914
+Superb,215500
+XF/S (Extremely Fine/Superb),73137
+XF (Extremely Fine),58660
+VF/XF (Very Fine/Extremely Fine),133317
+VF (Very Fine),523032
+F/VF (Fine/Very Fine),289158
+F (Fine),99103
+VG/F (Very Good/Fine),15903
+VG (Very Good),17217
+G/VG (Good/Very Good),12555
+G (Good),50621
+F/G (Fair/Good),5301
+F (Fair),8489
+P (Poor),775
+Not Specified,3282097
+Access,10/14/2020, 12:27:45,Grade,Success,2020-10-14 16:28:22,1.13.0
+Gem,48856
+Superb,215175
+XF/S (Extremely Fine/Superb),73259
+XF (Extremely Fine),58812
+VF/XF (Very Fine/Extremely Fine),133533
+VF (Very Fine),525175
+F/VF (Fine/Very Fine),290085
+F (Fine),99817
+VG/F (Very Good/Fine),15806
+VG (Very Good),17306
+G/VG (Good/Very Good),12524
+G (Good),50882
+F/G (Fair/Good),5222
+F (Fair),8490
+P (Poor),781
+Not Specified,3284811
+Access,10/16/2020, 12:27:45,Grade,Success,2020-10-16 16:28:22,1.13.0
+Gem,48888
+Superb,216013
+XF/S (Extremely Fine/Superb),73437
+XF (Extremely Fine),59105
+VF/XF (Very Fine/Extremely Fine),133033
+VF (Very Fine),527693
+F/VF (Fine/Very Fine),291329
+F (Fine),104632
+VG/F (Very Good/Fine),16091
+VG (Very Good),17261
+G/VG (Good/Very Good),12683
+G (Good),51048
+F/G (Fair/Good),6484
+F (Fair),8532
+P (Poor),802
+Not Specified,3249346
+Access,10/17/2020, 12:27:49,Grade,Success,2020-10-17 16:28:26,1.13.0
+Gem,48892
+Superb,215671
+XF/S (Extremely Fine/Superb),73372
+XF (Extremely Fine),59210
+VF/XF (Very Fine/Extremely Fine),133027
+VF (Very Fine),527417
+F/VF (Fine/Very Fine),292486
+F (Fine),105858
+VG/F (Very Good/Fine),15990
+VG (Very Good),17319
+G/VG (Good/Very Good),12651
+G (Good),50807
+F/G (Fair/Good),6582
+F (Fair),8534
+P (Poor),806
+Not Specified,3272569
+Access,10/18/2020, 12:27:45,Grade,Success,2020-10-18 16:28:22,1.13.0
+Gem,48669
+Superb,205732
+XF/S (Extremely Fine/Superb),74185
+XF (Extremely Fine),59169
+VF/XF (Very Fine/Extremely Fine),132381
+VF (Very Fine),527396
+F/VF (Fine/Very Fine),292530
+F (Fine),105468
+VG/F (Very Good/Fine),16036
+VG (Very Good),17336
+G/VG (Good/Very Good),12717
+G (Good),51653
+F/G (Fair/Good),6457
+F (Fair),8537
+P (Poor),816
+Not Specified,3268210
+Access,10/19/2020, 12:28:16,Grade,Success,2020-10-19 16:28:53,1.13.0
+Gem,48407
+Superb,205090
+XF/S (Extremely Fine/Superb),73915
+XF (Extremely Fine),58914
+VF/XF (Very Fine/Extremely Fine),131963
+VF (Very Fine),526044
+F/VF (Fine/Very Fine),292155
+F (Fine),104529
+VG/F (Very Good/Fine),15921
+VG (Very Good),17108
+G/VG (Good/Very Good),12747
+G (Good),52187
+F/G (Fair/Good),6472
+F (Fair),8528
+P (Poor),817
+Not Specified,3247601
+Access,10/20/2020, 12:27:51,Grade,Success,2020-10-20 16:28:28,1.13.0
+Gem,48545
+Superb,215431
+XF/S (Extremely Fine/Superb),73852
+XF (Extremely Fine),58974
+VF/XF (Very Fine/Extremely Fine),131430
+VF (Very Fine),528150
+F/VF (Fine/Very Fine),291770
+F (Fine),104624
+VG/F (Very Good/Fine),15953
+VG (Very Good),17131
+G/VG (Good/Very Good),12777
+G (Good),52388
+F/G (Fair/Good),6507
+F (Fair),8546
+P (Poor),816
+Not Specified,3227134
+Access,10/21/2020, 12:27:45,Grade,Success,2020-10-21 16:28:23,1.13.0
+Gem,48617
+Superb,215914
+XF/S (Extremely Fine/Superb),73884
+XF (Extremely Fine),58892
+VF/XF (Very Fine/Extremely Fine),130514
+VF (Very Fine),529081
+F/VF (Fine/Very Fine),290834
+F (Fine),104678
+VG/F (Very Good/Fine),15858
+VG (Very Good),17086
+G/VG (Good/Very Good),12738
+G (Good),52155
+F/G (Fair/Good),6549
+F (Fair),8561
+P (Poor),824
+Not Specified,3223702
+Access,10/22/2020, 12:27:46,Grade,Success,2020-10-22 16:28:24,1.13.0
+Gem,48531
+Superb,216144
+XF/S (Extremely Fine/Superb),74355
+XF (Extremely Fine),58945
+VF/XF (Very Fine/Extremely Fine),130017
+VF (Very Fine),530880
+F/VF (Fine/Very Fine),292486
+F (Fine),104769
+VG/F (Very Good/Fine),15865
+VG (Very Good),17087
+G/VG (Good/Very Good),12866
+G (Good),52124
+F/G (Fair/Good),6443
+F (Fair),8574
+P (Poor),826
+Not Specified,3219599
+Access,10/23/2020, 12:27:50,Grade,Success,2020-10-23 16:28:28,1.13.0
+Gem,48604
+Superb,217416
+XF/S (Extremely Fine/Superb),75124
+XF (Extremely Fine),59174
+VF/XF (Very Fine/Extremely Fine),129918
+VF (Very Fine),534423
+F/VF (Fine/Very Fine),292846
+F (Fine),103581
+VG/F (Very Good/Fine),15820
+VG (Very Good),17109
+G/VG (Good/Very Good),12789
+G (Good),51813
+F/G (Fair/Good),6491
+F (Fair),8571
+P (Poor),841
+Not Specified,3221188
+Access,10/24/2020, 12:27:46,Grade,Success,2020-10-24 16:28:24,1.13.0
+Gem,48681
+Superb,217244
+XF/S (Extremely Fine/Superb),75157
+XF (Extremely Fine),58957
+VF/XF (Very Fine/Extremely Fine),129678
+VF (Very Fine),534108
+F/VF (Fine/Very Fine),292661
+F (Fine),104441
+VG/F (Very Good/Fine),15818
+VG (Very Good),17022
+G/VG (Good/Very Good),12834
+G (Good),51602
+F/G (Fair/Good),6465
+F (Fair),8538
+P (Poor),824
+Not Specified,3223703
+Access,10/25/2020, 12:27:48,Grade,Success,2020-10-25 16:28:27,1.13.0
+Gem,48749
+Superb,216557
+XF/S (Extremely Fine/Superb),74855
+XF (Extremely Fine),58893
+VF/XF (Very Fine/Extremely Fine),129464
+VF (Very Fine),531605
+F/VF (Fine/Very Fine),292698
+F (Fine),104521
+VG/F (Very Good/Fine),15887
+VG (Very Good),16899
+G/VG (Good/Very Good),12744
+G (Good),51475
+F/G (Fair/Good),6416
+F (Fair),8546
+P (Poor),809
+Not Specified,3224858
+Access,10/26/2020, 12:27:45,Grade,Success,2020-10-26 16:28:24,1.13.0
+Gem,48788
+Superb,215344
+XF/S (Extremely Fine/Superb),74782
+XF (Extremely Fine),58763
+VF/XF (Very Fine/Extremely Fine),129212
+VF (Very Fine),528468
+F/VF (Fine/Very Fine),292502
+F (Fine),104194
+VG/F (Very Good/Fine),15913
+VG (Very Good),16807
+G/VG (Good/Very Good),12761
+G (Good),51824
+F/G (Fair/Good),6320
+F (Fair),8556
+P (Poor),803
+Not Specified,3213782
+Access,10/27/2020, 12:27:56,Grade,Success,2020-10-27 16:28:34,1.13.0
+Gem,48806
+Superb,215358
+XF/S (Extremely Fine/Superb),74822
+XF (Extremely Fine),58753
+VF/XF (Very Fine/Extremely Fine),128751
+VF (Very Fine),529005
+F/VF (Fine/Very Fine),291968
+F (Fine),105101
+VG/F (Very Good/Fine),15845
+VG (Very Good),16754
+G/VG (Good/Very Good),12869
+G (Good),51393
+F/G (Fair/Good),6091
+F (Fair),8502
+P (Poor),792
+Not Specified,3230486
+Access,10/28/2020, 12:27:46,Grade,Success,2020-10-28 16:28:25,1.13.0
+Gem,48683
+Superb,213193
+XF/S (Extremely Fine/Superb),74732
+XF (Extremely Fine),59008
+VF/XF (Very Fine/Extremely Fine),128578
+VF (Very Fine),529501
+F/VF (Fine/Very Fine),292479
+F (Fine),108026
+VG/F (Very Good/Fine),15787
+VG (Very Good),16899
+G/VG (Good/Very Good),12804
+G (Good),52241
+F/G (Fair/Good),6084
+F (Fair),8479
+P (Poor),787
+Not Specified,3220514
+Access,10/29/2020, 12:27:58,Grade,Success,2020-10-29 16:28:37,1.13.0
+Gem,48303
+Superb,214530
+XF/S (Extremely Fine/Superb),74287
+XF (Extremely Fine),58993
+VF/XF (Very Fine/Extremely Fine),128028
+VF (Very Fine),529544
+F/VF (Fine/Very Fine),293230
+F (Fine),107973
+VG/F (Very Good/Fine),15662
+VG (Very Good),16931
+G/VG (Good/Very Good),12825
+G (Good),51878
+F/G (Fair/Good),6145
+F (Fair),8458
+P (Poor),775
+Not Specified,3204274
+Access,10/30/2020, 12:27:46,Grade,Success,2020-10-30 16:28:25,1.13.0
+Gem,48235
+Superb,209330
+XF/S (Extremely Fine/Superb),74227
+XF (Extremely Fine),58331
+VF/XF (Very Fine/Extremely Fine),127159
+VF (Very Fine),529695
+F/VF (Fine/Very Fine),294091
+F (Fine),108207
+VG/F (Very Good/Fine),15659
+VG (Very Good),16931
+G/VG (Good/Very Good),12810
+G (Good),51645
+F/G (Fair/Good),6131
+F (Fair),8390
+P (Poor),766
+Not Specified,3176543
