@@ -1,15 +1,15 @@
 # Stamp-Grade-Statistics
-Stamp_Grades.py parses eBay Stamps database using Finding API to aggregate statistics  on the range of qualities from Gem to Poor of all stamp lots offered for sale on the USA eBay site.
+Stamp_Grades.py parses eBay Stamps database using Finding API to aggregate statistics on the range of qualities from Gem to Poor of all stamp lots offered for sale on the USA eBay site. There are 16 Grade levels as defined by eBay and are listed at the bottom of this README.
 
 ------------------------
 
 1. What the project does
 
-A single script file, in conjunction with a eBay YAML configuration file and the installed ebaysdk for python, will capture ensemble staistics from the AspectContainer returned by eBay to assign counts to each of 16 categories from best (Gem) to worst (Poor), including an Unspecified category. The results are written to disk as a flat file in CSV format, a text file of JSONs and also to a a MySQL database.
+A single script file, in conjunction with a eBay YAML configuration file and the installed ebaysdk for python, will capture ensemble statistics from the AspectContainer returned by eBay to assign counts to each of 16 categories from best (Gem) to worst (Poor), including an Unspecified category. The results are written to disk as a flat file in CSV format, a text file of JSONs and also to a a MySQL database.
 
 2. Why the project is useful
 
-It demonstrates the power of the eBay python SDK to capture in just afew seconds the sitewide statistics of the stamp market (typically 6.7 million lots) so a seller can understand the level of competition faced against each quality category.
+It demonstrates the power of the eBay python SDK to capture in just a few seconds the sitewide statistics of the stamp market (typically 6.7 million lots) so a seller can understand the level of competition faced against each quality category.
 
 3. How users can get started with the project
 
@@ -36,3 +36,9 @@ I use Notepad++ and the Thonny IDE for developing in Python and SQL. https://git
 
 John Quagliano
 john_quagliano_phd@verizon.net
+
+Grade Levels
+
+Gem, Superb, XF/S (Extremely Fine/Superb), XF (Extremely Fine), VF/XF (Very Fine/Extremely Fine), VF (Very Fine), F/VF (Fine/Very Fine), F (Fine), VG/F (Very Good/Fine), VG (Very Good), G/VG (Good/Very Good), G (Good), F/G (Fair/Good), F (Fair), P (Poor), Not Specified.
+
+
